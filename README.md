@@ -1,8 +1,11 @@
 # Bloc n°4 : Analyse prédictive de données non-structurées par l'intelligence artificielle.
+## Contact 
+
+[voguant-cal0n@icloud.com](mailto:voguant-cal0n@icloud.com)
 
 ## Video explain
 
-* Foo
+[Bloc n°4 : Analyse prédictive de données non-structurées par l'intelligence artificielle.](https://youtu.be/3BYXTZ4mmz4 "Bloc n°4")
 
 
 ## Project description  - Real or Not? NLP with Disaster Tweets
